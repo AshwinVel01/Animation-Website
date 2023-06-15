@@ -11,6 +11,7 @@ import Conservation from '../pages/Conservation';
 import About from "../pages/About";
 
 const routes = [
+    { path: "/", name: "Home", Component: Description },
     {path: "/", name: "Description", Component: Description},
     { path: "/range", name: "Range", Component: Range },
     { path: "/diet", name: "Diet", Component: Diet },
