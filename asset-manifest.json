@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animation-Website/static/css/main.b3a7054e.css",
+    "main.js": "/Animation-Website/static/js/main.d6cefb34.js",
+    "static/js/787.c1112931.chunk.js": "/Animation-Website/static/js/787.c1112931.chunk.js",
+    "static/media/About me.png": "/Animation-Website/static/media/About me.26561632a84f9abba3d5.png",
+    "static/media/Description.jpg": "/Animation-Website/static/media/Description.034e30eaf4cdb6f4cc6a.jpg",
+    "static/media/Conversation.png": "/Animation-Website/static/media/Conversation.12953e9f5d053790e48e.png",
+    "static/media/Diet.jpg": "/Animation-Website/static/media/Diet.9f55a845aef4d08082d0.jpg",
+    "static/media/LifeHistory.jpg": "/Animation-Website/static/media/LifeHistory.13806438628488decf47.jpg",
+    "static/media/Range.png": "/Animation-Website/static/media/Range.a08123562eb7270e37f2.png",
+    "static/media/logo.png": "/Animation-Website/static/media/logo.9a4147d010d3c2d36b77.png",
+    "index.html": "/Animation-Website/index.html",
+    "main.b3a7054e.css.map": "/Animation-Website/static/css/main.b3a7054e.css.map",
+    "main.d6cefb34.js.map": "/Animation-Website/static/js/main.d6cefb34.js.map",
+    "787.c1112931.chunk.js.map": "/Animation-Website/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a7054e.css",
+    "static/js/main.d6cefb34.js"
+  ]
+}
